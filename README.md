@@ -3,8 +3,6 @@
 ![FORKS](https://img.shields.io/github/forks/scottbromander/the_marketplace.svg?style=social)
 
 # Employee Salary Calculator
-
-
 ## Description
 Duration: 10 hours
 
@@ -15,7 +13,7 @@ total will continually increase as you add more employees.
 
 ## Screen Shot
 
-![alt text](SalaryCalculator.png)
+![](SalaryCalc.png)
 
 ## Usage
 
