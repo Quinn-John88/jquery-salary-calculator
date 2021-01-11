@@ -1,4 +1,4 @@
-/*
+
 $(function () {
 
     let employeeInfo = [];
@@ -62,6 +62,6 @@ $(function () {
 
             $(this).closest('tr').remove();
         });
+    
     });
 });
-*/
