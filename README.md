@@ -22,7 +22,7 @@ total will continually increase as you add more employees.
 3. After the submit button is press the new employee will be added to the index and the information will be cleared from the imput boxes
 4. To remove and employee you now longer need you must press the red delete button in the relative row of the employee you wish to delete
 5. to add more employees simply repeat step 2-3 until you have the desired amount of employees added
-6. Important note, if the total monthly cost exceeds the budget set of 20000 then you will be notified by the backgeound of the amount turning red
+6. Important note, if the total monthly cost exceeds the budget set of 20000 then you will be notified by the background of the amount turning red
 
 ## Built With
 
