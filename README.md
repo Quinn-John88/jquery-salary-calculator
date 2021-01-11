@@ -2,8 +2,8 @@
 ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/scottbromander/the_marketplace.svg?style=flat-square)
 ![FORKS](https://img.shields.io/github/forks/scottbromander/the_marketplace.svg?style=social)
 
-# PROJECT NAME
-Employee Salary Calculator
+# Employee Salary Calculator
+
 
 ## Description
 Duration: 10 hours
@@ -15,7 +15,7 @@ total will continually increase as you add more employees.
 
 ## Screen Shot
 
-![](SalaryCalculator.png)
+![alt text](SalaryCalculator.png)
 
 ## Usage
 
@@ -31,7 +31,7 @@ total will continually increase as you add more employees.
 VSCODE
 
 ## Acknowledgement
-Thanks to [EmergingDigitalAcademy] who equipped me with the tools and aided me in the porduction of this application.
+Thanks to Emerging Digital Academy who equipped me with the tools and aided me in the porduction of this application.
 
 ## Support
 If you have suggestions or issues, please email me at [johnson.fargo87@gmail.com]
